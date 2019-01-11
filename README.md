@@ -3,13 +3,9 @@ Crack Edition software for Mac
 _Collect all kinds of Mac cracking software and keep updating. If you do not find the software you need, please submit it in Issues and I will complete it the first time. If it helps you, take a like._
 
 ![](https://img.shields.io/badge/license-Apache%202-green.svg)
-[![](https://img.shields.io/badge/Download-ClearMyMac-brightgreen.svg)](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/Clear%20my%20mac/ClearMyMac.dmg)
-[![](https://img.shields.io/badge/Download-NTFSForMac-brightgreen.svg)](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/NTFS%20for%20mac/Tuxera_NTFS_2018_orsoon.dmg)
 ![](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-Jason-orange.svg)
 ![](https://img.shields.io/badge/QQ-3648415-brightgreen.svg)
-[![](https://img.shields.io/badge/Download-Office-brightgreen.svg)]((https://mac2.orsoon.com//2016/06/soft/Microsoft_Office_2016_sdfsd1.dmg))
-[![](https://img.shields.io/badge/Download-Thunder-brightgreen.svg)]((https://github.com/devzwy))
-
+![](https://img.shields.io/badge/😊-Can_u_give_me_a_star-brightgreen.svg)
 ****
 ### Author:Jason
 ### E-mail:dev_zwy@aliyun.com

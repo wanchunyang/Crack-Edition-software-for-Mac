@@ -5,7 +5,7 @@ Mac 各类破解版软件
 ![](https://img.shields.io/badge/license-Apache%202-green.svg)
 ![](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-Jason-orange.svg)
 ![](https://img.shields.io/badge/QQ-3648415-brightgreen.svg)
-![](https://img.shields.io/badge/😊-来个Start吧-brightgreen.svg)
+![](https://img.shields.io/badge/😊-来个Star吧-brightgreen.svg)
 ****
 ### Author:Jason
 ### E-mail:dev_zwy@aliyun.com
