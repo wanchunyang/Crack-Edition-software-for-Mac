@@ -10,7 +10,7 @@ Mac 各类破解版软件
 ### Author:Jason
 ### E-mail:dev_zwy@aliyun.com
 ****
-# 注意！！！安装失败请点击这里处理 [安装失败请点击这里处理](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/ERROR_ZH_.MD "安装失败请点击这里处理")
+# 注意！！！安装失败请点击这里处理 [处理错误](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/ERROR_ZH.MD "安装失败请点击这里处理")
 # [EnglishDoc](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/README.md "EnglishDoc")
 ## 目录
 * <a href="#1">Clear My Mac</a>
