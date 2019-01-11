@@ -23,7 +23,7 @@ _Collect all kinds of Mac cracking software and keep updating. If you do not fin
 * <a href="#3">Office for Mac</a>
 * <a href="#4">Thunder permanent vip for Mac</a>
 * <a href="#5">MWeb</a>
-* <a href="#5">Navicat Premium mac</a>
+* <a href="#6">Navicat Premium mac</a>
 
 
 ## How to use it

@@ -17,8 +17,8 @@ Mac 各类破解版软件
 * <a href="#2">NTFS fro Mac（U盘读写工具）</a>
 * <a href="#3">Office for Mac</a>
 * <a href="#4">Thunder permanent vip for Mac(迅雷永久会员)</a>
-* <a href="#4">MWeb(最好用的Markdown编辑器)</a>
-* <a href="#5">Navicat Premium mac(数据库管理工具)</a>
+* <a href="#5">MWeb(最好用的Markdown编辑器)</a>
+* <a href="#6">Navicat Premium mac(数据库管理工具)</a>
 
 ## 如何使用
 选择您想要下载的软件文件夹，一直单击最后一页，点击**download**按钮下载，您也可以在本地复制此项目
