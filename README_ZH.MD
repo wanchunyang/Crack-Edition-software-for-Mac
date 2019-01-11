@@ -97,7 +97,7 @@ Mac 各类破解版软件
 ##### 软件相关截图
 ![clear my Mac](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/mwb.png)
 
-### 6. <a name="5">Navicat Premium mac</a>
+### 6. <a name="6">Navicat Premium mac</a>
 ***
 
 

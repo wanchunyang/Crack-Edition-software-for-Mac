@@ -103,7 +103,7 @@ Unexpected power outages or unplugging the USB drive at the wrong time can cause
 ##### Software screenshot
 ![clear my Mac](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/images/mwb.png)
 
-### 6. <a name="5">Navicat Premium mac</a>
+### 6. <a name="6">Navicat Premium mac</a>
 ***
 
 
