@@ -14,6 +14,8 @@ _Collect all kinds of Mac cracking software and keep updating. If you do not fin
 ### Author:Jason
 ### E-mail:dev_zwy@aliyun.com
 ****
+# Attention! Hey! Hey! Installation failed. Click here to process[Installation failed click here to process](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/README.MD "Installation failed click here to process")
+ 
 # [中文文档](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/README_ZH.MD "点击查看中文文档")
 ## Cracking instructions for each piece of software
 * <a href="#1">Clear My Mac</a>

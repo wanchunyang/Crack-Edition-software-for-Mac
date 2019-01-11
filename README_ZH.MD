@@ -10,8 +10,8 @@ Mac 各类破解版软件
 ### Author:Jason
 ### E-mail:dev_zwy@aliyun.com
 ****
-# 注意！！！安装失败请点击这里处理 [安装失败请点击这里处理](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/ERROR_ZH_.md "安装失败请点击这里处理")
-# [EnglishDoc](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/README.MD "EnglishDoc")
+# 注意！！！安装失败请点击这里处理 [安装失败请点击这里处理](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/ERROR_ZH_.MD "安装失败请点击这里处理")
+# [EnglishDoc](https://github.com/devzwy/Crack-Edition-software-for-Mac/blob/master/README.md "EnglishDoc")
 ## 目录
 * <a href="#1">Clear My Mac</a>
 * <a href="#2">NTFS fro Mac（U盘读写工具）</a>
